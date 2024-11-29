@@ -12,7 +12,7 @@
     "mysql2": "^2.1.0",
     "pino": "^6.5.1",
     "pino-pretty": "^4.1.0",
-    "sequelize": "^6.3.4",
+    "sequelize": "^6.29.0",
     "serverless-dotenv-plugin": "^3.0.0",
     "serverless-sequelize-migrations": "^1.1.0"
   },
