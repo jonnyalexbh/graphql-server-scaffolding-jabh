@@ -9,7 +9,7 @@
   "author": "jonnyalexbh",
   "license": "ISC",
   "dependencies": {
-    "knex": "^0.21.1",
+    "knex": "^2.4.0",
     "mysql": "^2.18.1"
   },
   "devDependencies": {
